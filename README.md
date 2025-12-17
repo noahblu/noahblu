@@ -1,4 +1,6 @@
-## Hi there 👋
+<!-- ## Hello 👋 -->
+
+This is my work account. Please check out my [personal account](https://github.com/bluday).
 
 <!--
 **noahblu/noahblu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
